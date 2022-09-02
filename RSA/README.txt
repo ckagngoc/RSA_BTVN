@@ -1,3 +1,4 @@
+#Phạm Đức Minh
 plaintext = 'Ask questions. Never stop learning. Do not pay attention to what others think of you. Read everyday. Study hard. Teach others what you know. Make mistakes and learn.'
 
 e =  25
